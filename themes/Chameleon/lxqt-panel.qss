@@ -1,0 +1,247 @@
+/* Panel ----------------------------------- */
+LxQtPanel[position="Bottom"] {
+    border-top: 1px solid qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 palette(highlight), stop:0.5 white, stop:1 palette(highlight));
+    border-left: 1px solid palette(highlight);
+    border-right: 1px solid palette(highlight);
+    /* not just "border" so the mouse cursor on the bottom of the panel can easily click the various plugins*/
+    
+    background-color: qradialgradient(cx:0.5, cy:0, radius: 0.4, fx:0.5, fy:0, stop:0 palette(light), stop:1 palette(window));
+}
+
+LxQtPanel[position="Top"] {
+    border-bottom: 1px solid qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 palette(highlight), stop:0.5 white, stop:1 palette(highlight));
+    border-left: 1px solid palette(highlight);
+    border-right: 1px solid palette(highlight);
+    
+    background-color: qradialgradient(cx:0.5, cy:1, radius: 0.4, fx:0.5, fy:1, stop:0 palette(light), stop:1 palette(window));
+}
+
+LxQtPanel[position="Left"] {
+    border-right: 1px solid qlineargradient(x1:1, y1:0, x2:1, y2:1, stop:0 palette(highlight), stop:0.5 white, stop:1 palette(highlight));
+    border-bottom: 1px solid palette(highlight);
+    border-top: 1px solid palette(highlight);
+    
+    background-color: qradialgradient(cx:1, cy:0.5, radius: 0.4, fx:1, fy:0.5, stop:0 palette(light), stop:1 palette(window));
+}
+
+LxQtPanel[position="Right"] {
+    border-left: 1px solid qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 palette(highlight), stop:0.5 white, stop:1 palette(highlight));
+    border-top: 1px solid palette(highlight);
+    border-bottom: 1px solid palette(highlight);
+    
+    background-color: qradialgradient(cx:0, cy:0.5, radius: 0.4, fx:0, fy:0.5, stop:0 palette(light), stop:1 palette(window));
+}
+
+/* General plugins settings ----------------------------------- */
+Plugin {
+    padding: 0 2px 0 0;
+}
+
+Plugin > QToolButton, 
+Plugin > QWidget > QToolButton {
+    border: 0px solid transparent;
+    color: black;
+    qproperty-iconSize: 24px;
+}
+
+Plugin > QToolButton:pressed,
+Plugin > QWidget > QToolButton:pressed {
+    margin-top: 4px;
+    border: none;
+}
+
+Plugin > QToolButton:hover,
+Plugin > QWidget > QToolButton:hover {
+    margin-bottom: 2px;
+    border: none;
+}
+
+/* Main menu ----------------------------------- */
+#MainMenu {
+    min-width: 24px;
+    min-height: 24px;
+    padding: 0 4px 0 4px;
+    
+    font-weight: bold;
+    color: palette(window-text);
+    
+    background-color: palette(highlight);
+    border-image: url(button.png) stretch;
+    
+    qproperty-icon: url(lxqt_icon_48);
+}
+
+/*#MainMenu:hover {}*/
+
+/*#MainMenu:pressed {}*/
+
+/* Desktopswitch ----------------------------------- */
+#DesktopSwitch {}
+
+#DesktopSwitch QToolButton {
+    margin: 4px 1px 4px 1px;
+    border-radius: 3px;
+    color: palette(window-text);
+}
+
+#DesktopSwitch QToolButton:on {
+    background-color: palette(highlight);
+    color: palette(highlighted-text);
+}
+
+#DesktopSwitch QToolButton:hover {
+    border: 1px solid palette(highlight);
+}
+
+/* QuickLaunch ----------------------------------- */
+#QuickLaunch {}
+
+#QuickLaunchPlaceHolder {
+    color: palette(window-text);
+}
+
+/* TaskBar ----------------------------------- */
+#TaskBar {}
+
+LxQtTaskButton {
+    max-width: 300px;
+}
+
+#TaskBar > QToolButton {
+    margin: 4px 1px 4px 1px;
+    
+    border-radius: 3px;
+    border: 1px solid transparent;
+    
+    color: palette(window-text);
+}
+
+#TaskBar > QToolButton:on {
+    border: 1px inset #BBBBBB;
+    
+    background-color: palette(highlight);
+    
+    color: palette(highlighted-text);
+}
+
+#TaskBar > QToolButton:hover {
+    border: 1px inset #BBBBBB;
+    
+    background-color: palette(highlight);
+    background-image: url(overlay.png);
+    
+    color: palette(highlighted-text);
+}
+
+/* Tray ----------------------------------- */
+#Tray {
+    min-width: 6px;
+
+    margin-left: 4px;
+    margin-right: 4px;
+    
+    qproperty-iconSize: 24px;
+}
+
+TrayIcon {
+    margin: 2px;
+}
+
+/* Mount ----------------------------------- */
+#LxQtMountPopup {    
+    border: 1px solid palette(highlight);
+}
+
+#LxQtMountPopup > MenuDiskItem {
+    padding: 2px;
+}
+
+#LxQtMountPopup > MenuDiskItem:hover {
+    border: 1px solid palette(highlight);
+}
+
+#LxQtMountPopup #EjectButton,
+#LxQtMountPopup #DiskButton {
+    qproperty-iconSize: 22px;
+    border: none;
+}
+
+#LxQtMountPopup #NoDiskLabel {
+    margin: 4px;
+}
+
+/* Volume ----------------------------------- */
+VolumePopup {
+    border: 1px solid palette(highlight);
+}
+
+/* Clock ----------------------------------- */
+#Clock #TimeLabel {
+    font-size: 10pt;
+    color: palette(window-text);
+}
+#Clock #DateLabel {
+    font-size: 8pt;
+    color: palette(window-text);
+}
+
+/* KbIndicator ----------------------------------- */
+#KbIndicator {
+    margin-left: 4px;
+    margin-right: 4px;
+    
+    color: window-text;
+}
+
+#KbIndicator > QLabel {}
+
+#KbIndicator:enabled {
+    font-weight: bold;
+}
+
+#KbIndicator:disabled {
+    font-weight: normal;
+}
+
+
+/* #SysStat ----------------------------------- */
+#SysStat {
+    padding: 1px 1px 1px 1px;
+}
+
+#SysStat > QLabel {
+    font-size: 6pt;
+}
+
+#SysStat_Graph {
+    qproperty-gridColor: rgba(0, 0, 0, 25%);
+    qproperty-titleColor: rgba(0, 0, 0, 75%);
+    qproperty-cpuSystemColor: rgb(128, 0, 0);
+    qproperty-cpuUserColor: rgb(0, 0, 128);
+    qproperty-cpuNiceColor: rgb(0, 128, 0);
+    qproperty-cpuOtherColor: rgb(128, 128, 0);
+    qproperty-frequencyColor: rgb(160, 160, 160);
+    qproperty-memAppsColor: rgb(0, 0, 128);
+    qproperty-memBuffersColor: rgb(0, 128, 0);
+    qproperty-memCachedColor: rgb(128, 128, 0);
+    qproperty-swapUsedColor: rgb(128, 0, 0);
+    qproperty-netReceivedColor: rgb(0, 0, 128);
+    qproperty-netTransmittedColor: rgb(128, 128, 0);
+}
+
+
+/* WorldClock ----------------------------------- */
+#WorldClockContent {
+    font-size: 10pt;
+    color: #606060;
+}
+
+#WorldClockPopup > QLabel {
+    font-size: 12pt;
+    color: #606060;
+}
+
+/* CPU monitor ----------------------------------- */
+#LxQtCpuLoad {
+    qproperty-fontColor: #606060;
+}

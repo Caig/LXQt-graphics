@@ -1,0 +1,16 @@
+Notification {
+    background-color: palette(window);
+    border: 1px solid palette(highlight);  
+}
+
+QLabel {
+    color: palette(window-text);
+}
+
+#appLabel {
+    color: palette(window-text);
+}
+
+#closeButton {
+    qproperty-icon: url(close-48x48.png);
+}

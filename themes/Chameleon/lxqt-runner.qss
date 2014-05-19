@@ -1,0 +1,19 @@
+Dialog {}
+
+#panel {
+    background-color: palette(window);
+    border: 1px solid palette(highlight);
+}
+
+#actionButton {}
+
+#closeButton {
+    qproperty-icon: url(close-48x48.png);
+}
+
+#commandList {
+    border-top: none;
+    border-right: 1px solid palette(window);
+    border-bottom: 1px solid palette(highlight);
+    border-left: 1px solid palette(window);
+}

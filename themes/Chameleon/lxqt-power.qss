@@ -1,0 +1,56 @@
+Dialog {
+    border-top: 1px solid qlineargradient(x1:0, y1:0, x2:1, y2:0, stop:0 palette(highlight), stop:0.5 white, stop:1 palette(highlight));
+    background-color: qradialgradient(cx:0.5, cy:0, radius: 0.4, fx:0.5, fy:0, stop:0 palette(light), stop:1 palette(window));
+    color: palette(window-text);
+
+}
+
+QToolButton {
+    border: 1px solid palette(button);
+    border-radius: 3px;
+}
+
+QToolButton:focus,
+QToolButton:hover {
+    background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1.5, stop:0 palette(window), stop:1 palette(highlight));
+}
+
+
+#hibernateButton,
+#logoutButton,
+#rebootButton,
+#shutdownButton,
+#suspendButton {
+    qproperty-iconSize: 48px;
+    min-width: 80px;
+    min-height: 80px;
+}
+
+#cancelButton {
+    qproperty-icon: url(lxqt-power/cancel.png);
+    padding: 4px;
+}
+
+#hibernateButton {
+    qproperty-icon: url(lxqt-power/hibernate.png);
+}
+
+#logoutButton {
+    qproperty-icon: url(lxqt-power/logout.png);
+}
+
+#rebootButton {
+    qproperty-icon: url(lxqt-power/reboot.png);
+}
+
+#shutdownButton {
+    qproperty-icon: url(lxqt-power/shutdown.png);
+}
+
+#suspendButton {
+    qproperty-icon: url(lxqt-power/suspend.png);
+}
+
+
+
+
