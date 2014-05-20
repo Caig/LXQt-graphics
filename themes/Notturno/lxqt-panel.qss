@@ -1,0 +1,260 @@
+/* #0192D3
+ * #1A1A1A
+ */
+
+/* Panel ----------------------------------- */
+LxQtPanel[position="Bottom"] {
+    border-top: 1px solid #0192D3;
+    border-left: 1px solid #0192D3;
+    border-right: 1px solid #0192D3;
+    /* not just "border" so the mouse cursor on the bottom of the panel can easily click the various plugins*/
+    
+    background-color: #1A1A1A;
+}
+
+LxQtPanel[position="Top"] {
+    border-bottom: 1px solid #0192D3;
+    border-left: 1px solid #0192D3;
+    border-right: 1px solid #0192D3;
+    
+    background-color: #1A1A1A;
+}
+
+LxQtPanel[position="Left"] {
+    border-right: 1px solid #0192D3;
+    border-bottom: 1px solid #0192D3;
+    border-top: 1px solid #0192D3;
+    
+    background-color: #1A1A1A;
+}
+
+LxQtPanel[position="Right"] {
+    border-left: 1px solid #0192D3;
+    border-top: 1px solid #0192D3;
+    border-bottom: 1px solid #0192D3;
+    
+    background-color: #1A1A1A;
+}
+
+/* General plugins settings ----------------------------------- */
+Plugin {
+    padding: 0 2px 0 0;
+}
+
+Plugin > QToolButton, 
+Plugin > QWidget > QToolButton {
+    border: 0px solid transparent;
+    border-bottom: 1px solid transparent; /* to preallocate space for hover effect */
+    color: white;
+    qproperty-iconSize: 24px;
+}
+
+Plugin > QToolButton:pressed,
+Plugin > QWidget > QToolButton:pressed {
+    border: none;
+}
+
+Plugin > QToolButton:hover,
+Plugin > QWidget > QToolButton:hover {
+    border: none;
+    border-bottom: 1px solid #0192D3;
+}
+
+/* Main menu ----------------------------------- */
+#MainMenu {
+    padding: 0 4px 0 4px;
+    
+    font-weight: bold;
+    color: white;
+    
+    background-color: #0192D3;
+    
+    qproperty-icon: url(lxqt_icon_white_48);
+}
+
+#MainMenu:hover {
+    border-bottom: 1px solid white;
+}
+
+/* Desktopswitch ----------------------------------- */
+#DesktopSwitch {
+    padding: 0 2px 0 2px;
+}
+
+#DesktopSwitch QToolButton {
+    margin: 0px;
+    color: white;
+}
+
+#DesktopSwitch QToolButton:on {
+    background-color: #0192D3;
+    color: white;
+}
+
+/*#DesktopSwitch QToolButton:hover {}*/
+
+#DesktopSwitch QToolButton:on:hover {
+    border-bottom: 1px solid white;
+}
+
+/* ShowDesktop ----------------------------------- */
+#ShowDesktop {
+    padding: 0 0 2px 0;
+}
+
+#ShowDesktop QToolButton:hover {
+    border-bottom: 1px solid #0192D3;
+}
+
+/* QuickLaunch ----------------------------------- */
+#QuickLaunch {
+    padding: 0 2px 0 2px;
+}
+
+#QuickLaunchPlaceHolder {
+    color: white;
+    font-size: 7pt;
+}
+
+/* TaskBar ----------------------------------- */
+#TaskBar {
+    padding: 0 2px 0 2px;
+}
+
+LxQtTaskButton {
+    max-width: 300px;
+}
+
+#TaskBar > QToolButton {
+    margin: 0px;
+    
+    color: white;
+}
+
+#TaskBar > QToolButton:on {
+    background-color: #0192D3;
+}
+
+/*#TaskBar > QToolButton:hover {}*/
+
+#TaskBar > QToolButton:on:hover {
+    border-bottom: 1px solid white;
+}
+
+/* Tray ----------------------------------- */
+#Tray {
+    min-width: 6px;
+
+    margin-left: 4px;
+    margin-right: 4px;
+    
+    qproperty-iconSize: 24px;
+}
+
+TrayIcon {
+    margin: 0 2px 0 2px;
+}
+
+/* Mount ----------------------------------- */
+#LxQtMountPopup {
+    border: 1px solid #0192D3; 
+}
+
+#LxQtMountPopup > MenuDiskItem {
+    padding: 2px;
+}
+
+#LxQtMountPopup > MenuDiskItem:hover {
+    background-color: #0192D3;
+    color: white;
+}
+
+#LxQtMountPopup #EjectButton,
+#LxQtMountPopup #DiskButton {
+    qproperty-iconSize: 22px;
+    border: none;
+}
+
+#LxQtMountPopup #NoDiskLabel {
+    margin: 4px;
+}
+
+/* Volume ----------------------------------- */
+VolumePopup {
+    border: 1px solid #0192D3;
+}
+
+/*
+VolumePopup > QLabel {
+    color: white;
+}
+
+VolumePopup > QPushButton {
+    background-color: transparent;
+}
+
+VolumePopup > QPushButton:hover {
+    border: 1px solid #0192D3;
+}
+*/
+
+/* KbIndicator ----------------------------------- */
+#KbIndicator {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+#KbIndicator > QLabel {}
+
+#KbIndicator:enabled {
+    font-weight: bold;
+    color: white;
+}
+
+#KbIndicator:disabled {
+    font-weight: normal;
+    color: grey;
+}
+
+
+/* #SysStat ----------------------------------- */
+#SysStat {
+    padding: 1px 1px 1px 1px;
+}
+
+#SysStat > QLabel {
+    font-size: 6pt;
+    color: white; /* doesn't work */
+}
+
+#SysStat_Graph {
+    qproperty-gridColor: grey;
+    qproperty-titleColor: white;
+    qproperty-cpuSystemColor: rgb(128, 0, 0);
+    qproperty-cpuUserColor: rgb(0, 0, 128);
+    qproperty-cpuNiceColor: rgb(0, 128, 0);
+    qproperty-cpuOtherColor: rgb(128, 128, 0);
+    qproperty-frequencyColor: rgb(160, 160, 160);
+    qproperty-memAppsColor: rgb(0, 0, 128);
+    qproperty-memBuffersColor: rgb(0, 128, 0);
+    qproperty-memCachedColor: rgb(128, 128, 0);
+    qproperty-swapUsedColor: rgb(128, 0, 0);
+    qproperty-netReceivedColor: rgb(0, 0, 128);
+    qproperty-netTransmittedColor: rgb(128, 128, 0);
+}
+
+/* Clock ----------------------------------- */
+#Clock #TimeLabel {
+    font-size: 10pt;
+    color: white;
+}
+#Clock #DateLabel {
+    font-size: 8pt;
+    color: white;
+}
+
+/* WorldClock ----------------------------------- */
+#WorldClockContent {
+    font-size: 10pt;
+    color: white;
+}

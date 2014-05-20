@@ -1,0 +1,32 @@
+Dialog {}
+
+#panel {
+    border: 1px solid #0192D3;
+}
+
+#actionButton {
+    background-color: transparent;
+    /* qproperty-icon: url(config.png); */
+}
+
+#actionButton:hover {
+    border: 0px solid transparent;
+    border-bottom: 1px solid #0192D3;
+}
+
+#closeButton {
+    background-color: transparent;
+    qproperty-icon: url(close.png);
+}
+
+#closeButton:hover {
+    border: 0px solid transparent;
+    border-bottom: 1px solid #0192D3;
+}
+
+#commandList {
+    border-top: none;
+    border-right: 1px solid #0192D3;
+    border-bottom: 1px solid #0192D3;
+    border-left: 1px solid #0192D3;
+}

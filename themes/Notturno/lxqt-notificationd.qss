@@ -1,0 +1,16 @@
+Notification {
+    background-color: #1A1A1A;
+    border: 1px solid #0192D3;  
+}
+
+QLabel {
+    color: white;
+}
+
+#appLabel {
+    color: white;
+}
+
+#closeButton {
+    qproperty-icon: url(close-48x48.png);
+}
