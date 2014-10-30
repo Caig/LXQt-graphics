@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lxqt_icon_base_24.svg"
+   inkscape:export-filename="./lxqt_icon_24.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   style="enable-background:new">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="34.583333"
+     inkscape:cx="12"
+     inkscape:cy="11.754217"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3064"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0px"
+       originy="0px" />
+  </sodipodi:namedview>
+  <title
+     id="title4078">LXQt</title>
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3250-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3252-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3254-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3260-0"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LXQt</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Giacomo Barazzetti</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logo"
+     transform="translate(-575.98291,-771.48535)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3012"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+       transform="translate(-249.22717,-823.47169)"><flowRegion
+         id="flowRegion3014"><rect
+           id="rect3016"
+           width="213"
+           height="137"
+           x="927"
+           y="1114" /></flowRegion><flowPara
+         id="flowPara3018" /></flowRoot>    <g
+       id="g3156"
+       transform="matrix(0.5,0,0,0.5,362.48291,357.98535)">
+      <rect
+         y="885"
+         x="427"
+         height="64"
+         width="64"
+         id="rect3020"
+         style="fill:#0192d3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3790"
+         width="64"
+         height="64"
+         x="493"
+         y="885" />
+    </g>
+    <g
+       id="g3015"
+       transform="matrix(1.4973189,0,0,1.4994804,-286.40429,-397.32934)">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="m 581.98291,784.48535 c -0.38109,-0.41079 -0.64268,-0.93116 -0.74504,-1.48206 -0.10236,-0.55091 -0.0451,-1.13051 0.16296,-1.65077 0.2081,-0.52026 0.5664,-0.97943 1.02046,-1.30777 0.45405,-0.32834 1.00236,-0.52476 1.56162,-0.5594 0.64417,-0.0399 1.29987,0.13668 1.83688,0.49469 0.537,0.358 0.9522,0.89534 1.16312,1.50531 l 5,1.32894 -6,0 c -0.1641,-0.39113 -0.44587,-0.73199 -0.79915,-0.96674 -0.35328,-0.23474 -0.77669,-0.36245 -1.20085,-0.3622 -0.70965,4.2e-4 -1.40857,0.37473 -1.80221,0.96519 -0.39364,0.59047 -0.47035,1.37959 -0.19779,2.03481"
+         id="path3149-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czccczc"
+         inkscape:path-effect="#path-effect3250-6"
+         inkscape:original-d="m 581.98291,784.48535 c 0,0 0.68997,-5.02892 2,-5 1.31003,0.0289 3,2 3,2 l 5,1.32894 -6,0 c 0,0 -0.998,-1.18623 -2,-1.32894 -1.00155,-0.1427 -2,3 -2,3 z" />
+      <g
+         id="g3159-3"
+         transform="matrix(0.06009038,0,0,0.0600432,516.79276,683.98965)">
+        <path
+           sodipodi:nodetypes="ccscscc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 1101.5099,1707.0326 -99.8496,-83.2734 c 0,0 -32.05936,31.3283 -16.64157,49.9641 21.44117,25.9164 66.56637,66.6187 66.56637,66.6187 0,0 -21.9346,-26.6603 -39.387,-51.1432 -5.5412,-7.7734 6.1038,-15.4755 6.1038,-15.4755 z"
+           inkscape:path-effect="#path-effect3252-9"
+           id="path3151-3"
+           d="m 1101.5099,1707.0326 -99.8496,-83.2734 c -11.61242,13.7334 -17.69998,32.0104 -16.64157,49.9641 1.01017,17.1354 8.49611,33.8113 20.62897,45.9537 12.1328,12.1423 28.8028,19.6414 45.9374,20.665 -12.0983,-0.9154 -23.695,-7.176 -31.098,-16.7886 -7.403,-9.6127 -10.494,-22.4238 -8.289,-34.3546 1.0141,-5.4869 3.0993,-10.7737 6.1038,-15.4755 l 83.208,33.3093"
+           style="fill:#0192d3;fill-opacity:1;stroke:none" />
+        <path
+           style="fill:#0192d3;fill-opacity:1;stroke:none"
+           d="m 1084.8683,1745.855 -99.84957,-33.3094 c -0.63571,5.5273 -0.63571,11.1274 0,16.6547 1.19149,10.3597 4.65708,20.4891 10.34522,29.2291 5.68815,8.74 13.61735,16.0585 22.93795,20.7349 15.4244,7.7388 34.5004,7.7388 49.9248,0 -12.0459,-3.2889 -23.4293,-8.9851 -33.2832,-16.6547 -6.2092,-4.8328 -11.8137,-10.4417 -16.6416,-16.6546 l 66.5664,0"
+           id="path3153-6"
+           inkscape:path-effect="#path-effect3254-3"
+           inkscape:original-d="m 1084.8683,1745.855 -99.84957,-33.3094 c 0,0 -3.70169,4.4192 0,16.6547 3.70169,12.2355 25.55287,45.429 33.28317,49.964 21.5007,12.6136 49.9248,0 49.9248,0 0,0 -14.9237,-4.0284 -33.2832,-16.6547 -5.8293,-4.009 -16.6416,-16.6546 -16.6416,-16.6546 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cczscscc" />
+      </g>
+      <path
+         inkscape:original-d="m 585.9824,783.48553 c -0.10289,0.20647 -0.46444,0.73937 -0.51928,1.05018 -0.27702,1.56973 1.2697,3.85654 1.03886,5.16465 -0.23083,1.30811 -0.76343,2.01529 -2.51907,2.78499 -0.83884,0.36776 -1.65647,-0.89474 -2.68577,-1 -0.56327,0.78689 0.0191,4 0.0191,4 0,0 0.11565,-1.58024 0.68576,-2.00069 1.73164,0.22429 2.87183,0.76306 3.98087,6.5e-4 1.80271,-1.20087 3,-2.49892 3,-4 0,-1.50108 -3.008,-3.96695 -3.008,-5.76825 0,-0.0771 0.004,-0.15999 0.008,-0.23175 z"
+         inkscape:path-effect="#path-effect3260-0"
+         sodipodi:nodetypes="ccssccccsscc"
+         inkscape:connector-curvature="0"
+         id="path3155-5"
+         d="m 585.9824,783.48553 c -0.25359,0.3019 -0.43332,0.66539 -0.51928,1.05018 -0.0969,0.43371 -0.0749,0.88762 0.0116,1.32353 0.0865,0.4359 0.23596,0.85661 0.39393,1.27199 0.31594,0.83076 0.67411,1.68126 0.63331,2.56913 -0.0311,0.67749 -0.30503,1.34118 -0.76017,1.84397 -0.45514,0.5028 -1.08809,0.84113 -1.7589,0.94102 -0.49307,0.0734 -1.00451,0.0199 -1.47169,-0.15406 -0.46718,-0.17394 -0.88909,-0.46792 -1.21408,-0.84594 l 0.0191,4 0.68576,-2.00069 c 1.27997,0.43086 2.70076,0.43109 3.98087,6.5e-4 0.85709,-0.2882 1.66175,-0.77561 2.23275,-1.47677 0.571,-0.70116 0.89015,-1.62737 0.76725,-2.52323 -0.075,-0.54642 -0.30707,-1.06142 -0.60107,-1.52806 -0.294,-0.46664 -0.65002,-0.89045 -0.99819,-1.3182 -0.34817,-0.42775 -0.6914,-0.86366 -0.95547,-1.34787 -0.26407,-0.48421 -0.44751,-1.02261 -0.45327,-1.57412 -8.1e-4,-0.0773 0.002,-0.15467 0.008,-0.23175 l -4.7e-4,2.2e-4"
+         style="fill:#0192d3;fill-opacity:1;stroke:none" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3012-8"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+       transform="translate(-167.24424,-710.91942)"><flowRegion
+         id="flowRegion3014-8"><rect
+           id="rect3016-2"
+           width="213"
+           height="137"
+           x="927"
+           y="1114" /></flowRegion><flowPara
+         id="flowPara3018-1" /></flowRoot>  </g>
+</svg>

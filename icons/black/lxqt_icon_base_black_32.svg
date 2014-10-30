@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lxqt_icon_base_black_32.svg"
+   inkscape:export-filename="./lxqt_icon_black_32.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   enable-background="new">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.34375"
+     inkscape:cx="16"
+     inkscape:cy="15.664612"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3064"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0px"
+       originy="0px" />
+  </sodipodi:namedview>
+  <title
+     id="title4078">LXQt</title>
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3250-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3252-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3254-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3260-0"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LXQt</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Giacomo Barazzetti</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logo"
+     transform="translate(-575.98291,-763.48535)"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3012"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+       transform="translate(-249.22717,-823.47169)"><flowRegion
+         id="flowRegion3014"><rect
+           id="rect3016"
+           width="213"
+           height="137"
+           x="927"
+           y="1114" /></flowRegion><flowPara
+         id="flowPara3018" /></flowRoot>    <g
+       id="g3156"
+       transform="matrix(0.5,0,0,0.5,362.48291,357.98535)">
+      <rect
+         y="885"
+         x="427"
+         height="64"
+         width="64"
+         id="rect3020"
+         style="fill:#0192d3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3790"
+         width="64"
+         height="64"
+         x="493"
+         y="885" />
+    </g>
+    <g
+       id="g3015">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         d="m 590.02939,773.13729 c -0.85458,-0.75215 -1.46719,-1.77506 -1.7269,-2.88348 -0.2597,-1.10841 -0.16524,-2.29699 0.26628,-3.35047 0.43151,-1.05348 1.19801,-1.9668 2.16065,-2.57452 0.96265,-0.60773 2.11683,-0.90695 3.25349,-0.84347 1.13673,0.0635 2.25048,0.48941 3.1395,1.20063 0.88902,0.71121 1.54904,1.7043 1.8605,2.79937 l 9,2 -11,0 c -0.38634,-1.21716 -1.39283,-2.21929 -2.61165,-2.60035 -0.80383,-0.25132 -1.6877,-0.23922 -2.48435,0.034 -0.79666,0.27322 -1.5019,0.80613 -1.98229,1.49789 -0.48039,0.69176 -0.7334,1.53873 -0.71114,2.38064 0.0222,0.84191 0.31965,1.67433 0.83591,2.33975"
+         id="path3149-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czccczc"
+         inkscape:path-effect="#path-effect3250-6"
+         inkscape:original-d="m 590.02939,773.13729 c 0,0 1.33345,-9.70978 3.95352,-9.65194 2.62008,0.0578 5,4 5,4 l 9,2 -11,0 c 0,0 -0.60853,-2.31494 -2.61165,-2.60035 -2.00313,-0.28541 -4.34187,6.25228 -4.34187,6.25229 z" />
+      <g
+         id="g3159-3"
+         transform="matrix(0.12018167,0,0,0.1200873,457.60196,570.49248)">
+        <path
+           sodipodi:nodetypes="ccscscc"
+           inkscape:connector-curvature="0"
+           inkscape:original-d="m 1109.8277,1715.3593 -108.1695,-91.6 c 0,0 -32.05931,23.0006 -16.64152,41.6364 21.44112,25.9164 60.00362,58.6556 60.00362,58.6556 0,0 -15.3698,-10.3696 -32.8222,-34.8525 -5.5412,-7.7734 6.1015,-23.8031 6.1015,-23.8031 z"
+           inkscape:path-effect="#path-effect3252-9"
+           id="path3151-3"
+           d="m 1109.8277,1715.3593 -108.1695,-91.6 c -10.65928,11.0168 -16.77082,26.3076 -16.64152,41.6364 0.13113,15.5453 6.68678,30.9394 17.80352,41.8064 11.1168,10.867 26.6558,17.0713 42.2001,16.8492 -8.5449,-1.178 -16.646,-5.3565 -22.5596,-11.6359 -5.9137,-6.2794 -9.5989,-14.6165 -10.2626,-23.2166 -0.6416,-8.3148 1.5391,-16.8222 6.1015,-23.8031 l 91.5281,49.9636"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="m 1101.507,1740.3412 -108.16958,-33.3091 c -2.89063,11.0071 -2.00508,22.969 2.47486,33.4305 4.47992,10.4614 12.52632,19.3569 22.48732,24.8604 7.6018,4.2 16.2773,6.4373 24.9622,6.4373 8.6849,0 17.3604,-2.2373 24.9622,-6.4373 -6.9916,0.631 -14.1373,-0.5277 -20.5712,-3.3359 -6.4339,-2.8081 -12.1424,-7.2597 -16.4338,-12.8153 -4.9547,-6.4144 -7.9929,-14.2903 -8.6296,-22.3704 l 78.9176,13.5398"
+           id="path3153-6"
+           inkscape:path-effect="#path-effect3254-3"
+           inkscape:original-d="m 1101.507,1740.3412 -108.16958,-33.3091 c 0,0 9.50158,49.2208 24.96218,58.2909 21.5007,12.6135 49.9244,0 49.9244,0 0,0 -18.6455,-3.5249 -37.005,-16.1512 -5.8293,-4.009 -8.6296,-22.3704 -8.6296,-22.3704 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccscscc" />
+      </g>
+      <path
+         inkscape:original-d="m 596.02149,772.38498 c -0.20578,0.41295 -0.92889,1.47875 -1.03858,2.10037 -0.55403,3.13948 2.50023,6.81369 2.03855,9.42993 -0.46167,2.61625 -2.52725,3.03066 -6.03855,4.57007 -1.67769,0.73552 -2.94139,-0.78949 -5,-1 -1.12654,1.57378 0.0386,8 0.0386,8 0,0 0.85977,-3.1376 2,-3.9785 3.4633,0.44857 5.7433,0.50326 7.9614,-1.0215 3.60545,-2.40175 4.0386,-3.82719 4.0386,-6.82937 0,-3.00218 -4.015,-7.20524 -4.015,-10.80786 0,-0.15414 0.007,-0.31997 0.015,-0.4635 z"
+         inkscape:path-effect="#path-effect3260-0"
+         sodipodi:nodetypes="ccssccccsscc"
+         inkscape:connector-curvature="0"
+         id="path3155-5"
+         d="m 596.02149,772.38498 c -0.53267,0.58514 -0.89696,1.32186 -1.03858,2.10037 -0.14599,0.80253 -0.0576,1.63376 0.14698,2.42339 0.20456,0.78963 0.5226,1.54455 0.84189,2.29516 0.31929,0.75061 0.642,1.50315 0.85656,2.29013 0.21456,0.78697 0.31871,1.61528 0.19312,2.42125 -0.21017,1.34877 -1.06769,2.55048 -2.18929,3.32853 -1.1216,0.77805 -2.48683,1.15703 -3.84926,1.24154 -1.71558,0.10642 -3.45732,-0.24193 -5,-1 l 0.0386,8 2,-3.9785 c 2.6435,0.76348 5.59627,0.38462 7.9614,-1.0215 1.19523,-0.71059 2.24775,-1.6795 2.98068,-2.86117 0.73292,-1.18167 1.13611,-2.57989 1.05792,-3.9682 -0.1092,-1.93897 -1.11537,-3.69669 -2.07551,-5.38478 -0.96015,-1.68809 -1.92537,-3.48109 -1.93949,-5.42308 -0.001,-0.15462 0.004,-0.30928 0.015,-0.4635 l -2e-5,3.6e-4"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3012-8"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+       transform="translate(-167.24424,-710.91942)"><flowRegion
+         id="flowRegion3014-8"><rect
+           id="rect3016-2"
+           width="213"
+           height="137"
+           x="927"
+           y="1114" /></flowRegion><flowPara
+         id="flowPara3018-1" /></flowRoot>  </g>
+</svg>
